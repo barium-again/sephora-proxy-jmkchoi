@@ -1,5 +1,5 @@
 {
-  "name": "proxy-server-sorsok",
+  "name": "sephora-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ho-fec/proxy-server-sorsok.git"
+    "url": "git+https://github.com/barium-again/sephora-proxy-jmkchoi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ho-fec/proxy-server-sorsok/issues"
+    "url": "https://github.com/barium-again/sephora-proxy-jmkchoi/issues"
   },
-  "homepage": "https://github.com/ho-fec/proxy-server-sorsok#readme"
+  "homepage": "https://github.com/barium-again/sephora-proxy-jmkchoi#readme"
 }

@@ -1,7 +1,7 @@
 version: '2'
 services:
   app:
-    container_name: proxy-server-sorsok
+    container_name: sephora-proxy
     restart: always
     build: .
     ports:
